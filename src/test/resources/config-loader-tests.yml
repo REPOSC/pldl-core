@@ -1,0 +1,17 @@
+nonTerminalSymbols:
+  ? S
+  ? T
+  ? E
+  ? F
+terminalSymbols:
+  NUMBER: '[0-9]+'
+  STRING: '".*"'
+  IF: 'if'
+ignoredSymbols:
+  ? STRING
+  ? NUMBER
+startSymbol: S
+productions:
+  - S -> S T
+  - S -> F
+  - T -> T E

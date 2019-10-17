@@ -1,0 +1,44 @@
+{
+  "properties": [
+    {
+      "name": "exception.parser.CANNOT_CONTINUE",
+      "type": "java.lang.String",
+      "description": "Description for exception.parsing.CANNOT_CONTINUE."
+    },
+    {
+      "name": "exception.parser.CANNOT_FINISH",
+      "type": "java.lang.String",
+      "description": "Description for exception.parsing.CANNOT_FINISH."
+    },
+    {
+      "name": "exception.lexer.CANNOT_CONTINUE",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.CANNOT_CONTINUE."
+    },
+    {
+      "name": "exception.lexer.INVALID_REGEX",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.INVALID_REGEX."
+    },
+    {
+      "name": "exception.lexer.INVALID_NAME",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.INVALID_NAME."
+    },
+    {
+      "name": "exception.lexer.NON_TERMINAL_SYMBOL_NOT_EXIST",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.NON_TERMINAL_SYMBOL_NOT_EXIST."
+    },
+    {
+      "name": "exception.lexer.TERMINAL_SYMBOL_NOT_EXIST",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.TERMINAL_SYMBOL_NOT_EXIST."
+    },
+    {
+      "name": "exception.lexer.SYMBOL_NOT_EXIST",
+      "type": "java.lang.String",
+      "description": "Description for exception.lexer.SYMBOL_NOT_EXIST."
+    }
+  ]
+}
