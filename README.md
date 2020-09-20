@@ -1,5 +1,7 @@
 这是用户[Alumik](https://github.com/alumik)创建的项目，下面是原始的readme：
 
+本仓库已停止维护。本项目已迁移至[parse-tree](https://github.com/AlumiK/parse-tree)项目继续进行维护。
+
 # PLDL(Programming Language Description Language)
 
 PLDL 是编程语言描述语言的简称。
